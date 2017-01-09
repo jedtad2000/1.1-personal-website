@@ -1,13 +1,13 @@
 html{
-  background-image: url(https://www.google.com/search?q=background+images+killer+dolphins&espv=2&biw=660&bih=743&tbm=isch&imgil=NU5luVfyZO5i6M%253A%253BATANSJ4iXCPPeM%253Bhttps%25253A%25252F%25252Fwallpaperscraft.com%25252Fdownload%25252Fdolphins_killer_whales_sea_sunset_sky_52935%25252F2048x2048&source=iu&pf=m&fir=NU5luVfyZO5i6M%253A%252CATANSJ4iXCPPeM%252C_&usg=__K6CzNyxACDZjZ5Z1XMkSv_13Hko%3D&ved=0ahUKEwiM7PHs6LXRAhUpsFQKHbv8A2EQyjcIKA&ei=ZudzWIyhAang0gK7-Y-IBg#imgrc=NLMgYsXxxoAWoM%3A);
-  background-size: cover;
+
   }
 
   body{
+    background-image: url('https://dncache-mauganscorp.netdna-ssl.com/thumbseg/2163/2163799-bigthumbnail.jpg');
+    background-size: cover;
     color: FFFF00
   }
 
   h1, h2{
     text-align: center;
   }
-  
